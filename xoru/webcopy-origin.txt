@@ -1,0 +1,84 @@
+Uri: https://cdn.jsdelivr.net/gh/StephanWagner/jBox@v1.3.2/dist/jBox.all.min.js
+File Name: C:\Downloaded Web Sites\ruin.lol\gh\StephanWagner\jBox@v1.3.2\dist\jBox.all.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\ruin.lol\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\ruin.lol\ajax\libs\jquery\3.7.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.1.4/toastr.min.js
+File Name: C:\Downloaded Web Sites\ruin.lol\ajax\libs\toastr.js\2.1.4\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://files.catbox.moe/vcoq65.png
+File Name: C:\Downloaded Web Sites\ruin.lol\vcoq65.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Inter&display=swap
+File Name: C:\Downloaded Web Sites\ruin.lol\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap
+File Name: C:\Downloaded Web Sites\ruin.lol\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,
+File Name: C:\Downloaded Web Sites\ruin.lol\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\ruin.lol\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/majormonodisplay/v16/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCg.ttf
+File Name: C:\Downloaded Web Sites\ruin.lol\s\majormonodisplay\v16\RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\ruin.lol\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\ruin.lol\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://r2.ruin.lol/2EBvwcKvbaZzCefE.mp3
+File Name: C:\Downloaded Web Sites\ruin.lol\2EBvwcKvbaZzCefE.mp3
+Content Type: audio/mpeg
+
+Uri: https://r2.ruin.lol/EvxzaLGQVT40yOZQ.mp4
+File Name: C:\Downloaded Web Sites\ruin.lol\EvxzaLGQVT40yOZQ.mp4
+Content Type: application/octet-stream
+
+Uri: https://r2.ruin.lol/PF3cq0WAxyapQPNT.gif
+File Name: C:\Downloaded Web Sites\ruin.lol\PF3cq0WAxyapQPNT.gif
+Content Type: image/gif
+
+Uri: https://r2.ruin.lol/yCHb4pzk98B7gPqE.png
+File Name: C:\Downloaded Web Sites\ruin.lol\yCHb4pzk98B7gPqE.png
+Content Type: image/png
+
+Uri: https://ruin.lol/1
+File Name: C:\Downloaded Web Sites\ruin.lol\1.html
+Content Type: text/html
+
+Uri: https://ruin.lol/src/bio2.css?1719475692
+File Name: C:\Downloaded Web Sites\ruin.lol\src\bio2.css
+Content Type: text/css
+
+Uri: https://ruin.lol/src/js/bio.js?1719475692
+File Name: C:\Downloaded Web Sites\ruin.lol\src\js\bio.js
+Content Type: text/javascript
+
+Uri: https://ruin.lol/src/js/cursorEffects.js
+File Name: C:\Downloaded Web Sites\ruin.lol\src\js\cursorEffects.js
+Content Type: text/javascript
+
+Uri: https://ruin.lol/src/tooltips.css
+File Name: C:\Downloaded Web Sites\ruin.lol\src\tooltips.css
+Content Type: text/css
+
