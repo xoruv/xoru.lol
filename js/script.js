@@ -11,7 +11,7 @@ var data = [
   'Yes\n',
   'xoru',
   'x0ru',
-  'xoru@loki.lol\n\n',
+  'x@loki.lol\n\n',
 ]
 
 var info = [
